@@ -1,0 +1,2 @@
+# SwipeScholar
+Academics Automation System
